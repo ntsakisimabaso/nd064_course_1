@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: {{julia1989/python-helloworld}}/python-helloworld:latest
+          tags: julia1989/python-helloworld/python-helloworld:latest
